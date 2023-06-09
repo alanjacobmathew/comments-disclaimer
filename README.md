@@ -45,7 +45,7 @@ It is possible to add Comments Disclaimer to existing published posts. Please fo
 Remember this button will work only once. All posts published from thereupon, or after the installation of the plugin will have to be enabled from the editor itself. Although, as a work around you can delete the plugin and install it again, and repeat the above step to add Comments Disclaimer to posts published.
 
 #### Should I add comments disclaimer on previously published posts? 
-Although not necessary, I would suggest to add it to those posts as well. Blogs posts mostly doesn't have an expiry date. So as long as your site is active, it will exists. Though the comment section may contains links which may have been added liv fives years before, but doesnt exists anymore/ some bad actor own it today. So some of your readers might come across these links and follow them assuming as a valid website.
+Although not necessary, I would suggest to add it to those posts as well. Blogs posts mostly doesn't have an expiry date. So as long as your site is active, it will exists. Though the comment section may contains links which may have been added like five years before, but doesn\'t exist anymore or some bad actor may own it today. So some of your readers might come across these links and follow them assuming as a valid website.
 
 #### Will the plugin works with version previous to 5.8 
 The plugin should work for sites before 5.8, although I haven't tested with any of those. If you plan to use it with older version please test it on a staging site, before using it on a live site. 
